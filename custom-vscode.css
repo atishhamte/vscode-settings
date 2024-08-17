@@ -38,7 +38,6 @@
 
 /* List item label name */
 .monaco-list.list_id_1 .monaco-list-row.selected .label-name {
-    color: #fff !important;
     opacity: 1 !important;
 }
 
@@ -47,9 +46,8 @@
 .monaco-list .monaco-list-row
 .monaco-icon-label .label-name {
     font-family: 'JetBrains Mono', monospace !important;
-    font-size: 14px !important;
+    font-size: 12px !important;
     font-weight: 400 !important;
-    color: #FFF !important;
 }
 
 /* Sidebar top shadow */
@@ -75,7 +73,7 @@
 .composite.title h2::before {
     display: inline-block;
     margin-right: 6px;
-    font-size: 1.1rem;
+    font-size: 1rem;
     content: '🚀';
 }
 
